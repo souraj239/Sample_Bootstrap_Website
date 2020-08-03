@@ -37,3 +37,8 @@
 .navbar-dark{
     background-color: #512DA8;
 }
+
+.btn-format{
+    margin: 10px auto;
+    padding: 5px 5px 5px 5px;
+}
